@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Diety:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Diety_jar</output-path>
+    <root id="archive" name="Diety.jar">
+      <element id="module-output" name="Diety" />
+    </root>
+  </artifact>
+</component>
